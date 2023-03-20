@@ -1,1 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+			<style>
+			h1{ font-family: arialblack;
+				font-size: 40px;
+				color:blueviolet;}
+		
+			h2{ font-family: times new roman;
+				font-size: 24px;
+				color: orange;}
 
+			h3{font-family: arial;
+				font-size: 16px;
+				color:black;}	
+
+			h4{font font-family: times new roman;
+				font-size: 24px;
+				color: purple;}
+
+
+		   </style>
+	
+	
+	
+			<title>EU</title>
+</head>
+
+	<body>
+
+		<h1>Algumas coisas sobre mim</h1>
+
+		<h2>O que eu gosto de comer?</h2>
+
+		<h3>O que eu mais gosto de comer é strogonoff.</h3>
+
+		<h4>Qual é meu hobby?</h4>
+
+		<h3>O meu hobby no pouco tempo que tenho é jogar e ver serie.</h3>
+
+		<h2>Qual lugares que eu gosto de ir?</h2>
+
+		<h3>Gosto  de ir bastante a festas entre amigos. </h3>
+
+		<h4>Qual coisas me deixa feliz? </h4>
+
+		<h3>Sair pra algum lugar com minha namorada.</h3>
+
+		<h2>Qual o meu estilo de musica preferido?</h2>
+
+		<h3>Hip_hop/rap.</h3>
+
+		<h4>Qual meu cantor favorito?</h4>
+
+		<h3>Djonga.</h3>
+
+		<h2>Qual comida da infância que adoro até hoje? </h2>
+
+		<h3>Lasanha.</h3>
+
+		<h4>O que me faz me sentir completo?</h4>
+
+		<h3>O reconhecimento dos outros em mim.</h3>
+
+		<h2>O que acredita ser minha maior qualidade?</h2>
+
+		<h3>Planejamento e organização.</h3>
+
+		<h4>Qual é o meu maior medo?</h4>
+
+		<h3>Perder as pessoas que mais amo.</h3>
+
+		<h2>O que costuma ser a melhor parte do meu dia?</h2>
+
+		<h3>Quando chego e posso dormir com quem amo.</h3>
+		
+		
+	</body>
+	
+</html>
