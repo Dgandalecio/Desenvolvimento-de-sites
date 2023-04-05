@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>O meu filme favorito</title>
+<style>
+		h1{text-align: Center;
+			font-family: times new roman;
+			color: black;
+			font-size: 80px;
+		-webkit-text-stroke-width: 0.2px;
+    	-webkit-text-stroke-color: #FFF;
+}
+
+		h2{text-align: left;
+		font-family: arial black;
+		font-size: 30px;
+	-webkit-text-stroke-width: 0.2px;
+    	-webkit-text-stroke-color: #FFF;
+    	text-decoration: underline;
+}
+
+		p{text-align: justify;
+			font-family: star wars;
+			color: white;
+			text-indent: 22px;
+			-webkit-text-stroke-width: 0.2px;
+    	-webkit-text-stroke-color: #000;
+
+		}	
+
+		.fig1{position: relative;}
+
+		.fig1 img{border: 5px solid blue;
+		box-shadow: 1px 1px 4px black;
+		width: 25%;
+		height: 25%;
+		display: block;
+		margin: 0 auto;		
+				}
+
+
+div.box {
+	width: 225px;
+	display: inline-block;}
+
+div.box img{border: 3px solid black;
+		box-shadow: 2px 2px 4px white;
+
+		}
+body{background-image: url("https://img.freepik.com/fotos-premium/ilustracao-de-fundo-abstrato-azul-para-fundos-festivos-e-papeis-de-parede-e-decoracoes-brilhantes-banners-legais-em-paginas-anuncios-sites_97567-709.jpg");
+background-size:1200px 1500px;
+background-repeat:no-repeat ;
+}
+
+</style>
+
+</head>
+<body>
+		<h1>Gente Grande</h1><br>
+
+		<p>Em Gente Grande, <i>Lenny</i> <b>(Adam Sandler)</b>, <i>Kurt</i> <b>(Chris Rock)</b>, <i>Eric</i> <b>(Kevin James)</b>,<i> Marcus</i> </b>(David Spa&shy;de)</b> e <i>Rob</i> <b>(Rob Schne&shy;ider)</b><br> se conhecem desde pequenos. Passados trinta anos, os cinco amigos se reencontram para curtir um fim de sema&shy;na juntos com as <br>respectivas famílias, mas o feriado de 4 de Julho em uma casa no lago promete muito mais diversão do que apenas lembran&shy;ças<br> dos bons momentos. Casados e com várias crianças, os homens de família terão de confrontar o fato de não se&shy;rem<br> mais tão jovens.</p>
+<figure class="fig1">
+
+	<img src="https://upload.wikimedia.org/wikipedia/pt/f/fe/Grownupsmovie.jpg">
+</figure>
+
+
+<h2>Curiosidades das filmagens</h2><br>
+
+		<p>Durante os créditos iniciais, o diretor Dennis Dugan aparece como um juiz de basquete.</p>
+
+		<p>O jogo de basquete exibido em um flashback foi filmado no Huntington St. YMCA, em Boston. Foi fil&shy;mado em ple&shy;no ve&shy;rão,<br> sem ar condicionado e com os figurantes vestindo roupas de nylon. Adam Sandler e o diretor Dennis Dugan esta&shy;vam lá orien&shy;tando<br> a equipe, a torcida organizada, durante 15 horas de filmagens.</p>
+
+		<p>Apesar de Adam Sandler ter nascido no Brooklyn, em Nova York, uma das camisas que ele usa, a da UNH (Univer&shy;sity of New<br> Hamp&shy;shier), deve-se ao fato de que ele passou parte da vida em Manchester, New Hamp&shy;shire.</p>
+
+
+
+		<h2>Elenco</h2>	<br>
+
+
+	<div class= "box">
+		<p>Adam Sandler</p>
+
+		<img src="https://cdn.britannica.com/24/157824-050-D8E9E191/Adam-Sandler-2011.jpg " width="200" height="200" > 
+</div>
+<div class= "box">
+		<p>Kevin James</p>
+
+		<img src="https://images.mubicdn.net/images/cast_member/44071/cache-110307-1429662363/image-w856.jpg?size=800x"width="200" height="200">
+</div>
+
+<div class= "box">
+		<p>David Spade</p>
+
+		<img src="https://www.emmys.com/sites/default/files/bios/david-spade-ap-450x600.jpg"width="200" height="200">
+</div>
+
+<div class= "box">
+		<p>Chris Rock</p>
+
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Chris_Rock_WE_2012_Shankbone_10.JPG/800px-Chris_Rock_WE_2012_Shankbone_10.JPG"width="200" height="200">
+</div>
+
+<div class= "box">
+		<p>Rob Schneider</p>
+
+		<img src="https://flxt.tmsimg.com/assets/54827_v9_bb.jpg"width="200" height="200">
+</div>
+
+<p><i>Desenvolvido por Diogo &copy;</i></p> 
+
+</body>
+</html>
