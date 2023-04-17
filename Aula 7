@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>O retorno do Orkut</title>
+
+	<style>
+		
+ h1{text-align: center;
+ 	font-size: 5em;}
+
+ p{ font-family: arial;
+ 	font-size: 15pt;
+ 	text-align: justify-all;
+ 	text-indent: 20px;
+ 	margin-left: 8em;
+ 	margin-right: 8em;
+ }
+
+	.fig1{position: block;}
+		.fig1 img{
+
+		box-shadow: 1px 1px 4px black;
+		width: 40%;
+		height: 40%;
+		display: block;
+		margin: 0 auto;		
+				}
+
+
+
+		body {
+			background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Orkut_Logo_2.png/800px-Orkut_Logo_2.png") ;
+				background-repeat: no-repeat;
+				background-position-x: center;
+				background-color: floralwhite;
+				background-size:75em;}
+
+			</style>
+
+</head>
+<body>
+ 		
+<h1>Orkut</h1>
+	<p>O site oficial do Orkut foi reativado nesta quarta-feira (27) com uma mensagem do seu fundador, o engenheiro turco Orkut Buyukkokten.<br> No anúncio, ele afirma que está construindo algo novo, o que deixa a entender sobre uma possível reativação da extinta rede social do Google, que foi criada em 2004 e durou 10 anos.</p>
+
+	<p>"Eu sou um otimista. Acredito no poder da conexão para mudar o mundo. Acredito que o mundo é um lugar melhor quando nos conhecemos um pouco mais. É por isso que criei a primeira rede social do mundo quando era estudante de pós-graduação em Stanford. É por isso que eu trouxe o orkut.com para tantos de vocês ao redor do mundo. E é por isso que estou construindo algo novo. Vejo você em breve!".</p>
+	
+<figure class="fig1" >
+	
+	<img src="https://www.opovo.com.br/_midias/jpg/2020/08/04/750x500/1_whatsapp_image_2020_08_04_at_11_48_06-13182960.jpeg" width="300px" height="300px">
+	
+</figure>
+
+	<p>O anúncio, em inglês e português, foi feito dois dias depois que Elon Musk fechou um acordo para comprar o Twitter por US$ 44 bilhões. A compra dividiu a opinião dos usuários e muito deles passaram a pedir a volta do Orkut.Após a reativação do site, o possível retorno da rede social se tornou um dos assuntos mais comentados.</p>
+
+	<p>Os usuários não poderão recuperar suas fotos antigas no Orkut. Essa opção era oferecida pelo Google, antigo proprietário da rede social, mas foi desativada há alguns anos.</p>
+
+	<p>Não se sabe se o Orkut vai voltar, nem em quais termos. Mesmo que a rede social retorne, é possível que as ferramentas sejam diferentes ou sequer existam. O Google chegou a manter um acervo de comunidades que permitia ler as discussões públicas mesmo após o fim do prazo de download. Porém, a consulta ao banco de dados, com mais de 51 milhões de comunidades, foi encerrada em maio de 2017.</p>
+
+
+<p><b>Desenvolvido por Diogo &#169; 2023<b></p>
+</body>
+</html>
